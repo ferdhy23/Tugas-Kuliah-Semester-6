@@ -1,4 +1,3 @@
-TUGAS KULIAH
-- Membuat Artikel (Tren dan Isu Pembelajaran Matematika) 
+TUGAS KULIAH 
 - Revisi Makalah Kelompok (Matematika Keuangan)
-- Buat Dokumentasi Step by Step Memakai Github 
+- Buat Dokumentasi Step by Step Memakai Github
