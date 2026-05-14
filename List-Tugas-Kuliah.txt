@@ -1,0 +1,4 @@
+LIST TUGAS KULIAH
+- Membuat Artikel (Tren dan Isu Pembelajaran Matematika)
+- Revisi Makalah (Matematika Keuangan)
+- Buat Dokumentasi Step by Step memakai GitHub
